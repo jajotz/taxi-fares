@@ -35,6 +35,31 @@ Standard output displays nothing for incorrect inputs that do not meet specifica
 code ends with a value other than 0.
 
 ### How to Run
+#### Build
+```
+go build main.go
+```
+#### Run
 ```
 go run main.go
+```
+Run from binary(Windows):
+Build the apps then
+```
+./main.exe
+```
+Run from binary(Linux/Mac):
+Build the apps then
+```
+./main
+```
+
+#### Stop the program
+ctrl + c signal (Windows/Linux)
+```
+ctrl + c
+```
+cmd + c signal (Mac)
+```
+cmd + c
 ```
