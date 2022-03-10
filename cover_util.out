@@ -1,0 +1,20 @@
+mode: set
+taxi-fares/app/util/util.go:45.87,47.21 2 1
+taxi-fares/app/util/util.go:51.2,52.14 2 1
+taxi-fares/app/util/util.go:55.2,63.16 8 1
+taxi-fares/app/util/util.go:67.2,72.27 2 1
+taxi-fares/app/util/util.go:47.21,49.3 1 1
+taxi-fares/app/util/util.go:52.14,54.3 1 1
+taxi-fares/app/util/util.go:63.16,65.3 1 1
+taxi-fares/app/util/util.go:76.47,79.33 2 1
+taxi-fares/app/util/util.go:104.2,104.13 1 1
+taxi-fares/app/util/util.go:79.33,81.20 2 1
+taxi-fares/app/util/util.go:85.3,85.22 1 1
+taxi-fares/app/util/util.go:98.3,99.21 2 1
+taxi-fares/app/util/util.go:81.20,83.4 1 1
+taxi-fares/app/util/util.go:85.22,87.4 1 1
+taxi-fares/app/util/util.go:87.9,90.32 2 1
+taxi-fares/app/util/util.go:95.4,95.34 1 1
+taxi-fares/app/util/util.go:90.32,92.5 1 1
+taxi-fares/app/util/util.go:92.10,94.5 1 1
+taxi-fares/app/util/util.go:99.21,100.9 1 1
